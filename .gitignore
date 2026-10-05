@@ -1,3 +1,8 @@
+# Machine-specific robot limits and endpoints
+config.json
+camera_snapshots/
+.omp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
